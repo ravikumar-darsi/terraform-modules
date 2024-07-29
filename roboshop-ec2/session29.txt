@@ -1,0 +1,20 @@
+Modules development
+----------------------------
+DRY --> Don't repeat yourself
+
+code reuse, no need to write infrs code for every project from the scratch
+
+ec2.tf
+variables.tf
+
+module "" {
+  
+}
+
+Here ec2 is the module and roboshopec2 is the user
+
+we can use custom modules for our organization or we can use community available modules.
+
+
+1. module developer --> who develops modules
+2. module user ---> who consumes modules
