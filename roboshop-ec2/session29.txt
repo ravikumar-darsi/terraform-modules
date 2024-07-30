@@ -2,7 +2,10 @@ Modules development
 ----------------------------
 DRY --> Don't repeat yourself
 
-code reuse, no need to write infrs code for every project from the scratch
+code reuse, no need to write infra code for every project from the scratch
+Two types of Modules:
+1. customised modules for our organization
+2. Open source modules.
 
 ec2.tf
 variables.tf
